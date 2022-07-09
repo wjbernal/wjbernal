@@ -1,6 +1,11 @@
-<h1>William Bernal</h1>
+<h1 align="center">William Bernal</h1>
 
-- ["My Email"]( "Hi! from your GitHub")
+<p align="center">
+**Software Engineer - Computer Programmer - Full Stack Developer** 
+BSc, PMP-PMI® Certified, Agile
+
+</p>
+
 - <a href="mailto:wjbernals@gmail.com?subject=Hi from your GitHub"> My Email</a>
 - ["LinkedIn"](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")
 
