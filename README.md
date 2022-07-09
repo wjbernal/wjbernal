@@ -1,6 +1,6 @@
 <h1>William Bernal</h1>
 
-- ["My Email"](mailto:wjbernals@gmail.com?subject=Hi%20from%20your%20GitHub "Hi! from your GitHub")
+- ["My Email"](mailto:wjbernals@gmail.com?subject="Hi from your GitHub" "Hi! from your GitHub")
 - ["LinkedIn"](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")
 
 
