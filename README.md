@@ -25,8 +25,15 @@ I am a software engineer. In my heart, I am a programmer.
 <h2>Interests</h2>
 
 - C#, 
-- .NET core, MVC, Razor Pages, Web API, ASP.NET, Web Pages, 
-- 
+- .NET core, MVC, Razor Pages, Web API, ASP.NET, ASP.NET WEB API, REST, NET Framework
+- WEB Development: HTML, CSS, JavaScript, 
+- VUE.js, REACT
+- SQL / TSQL,  EI - Entity Framework,
+- ADO.Net
+- Java
+- Python
+- Oracle, PostgreSQL, MySQL.
+
 
 
 
