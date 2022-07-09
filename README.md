@@ -5,7 +5,7 @@
 
 
 
-- <a href="mailto:wjbernals@gmail.com?subject=Hi from your GitHub"> Click here to send me an email</a>  ["or Visit my LinkedIn profile"](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")
+<pre><a href="mailto:wjbernals@gmail.com?subject=Hi from your GitHub"> Click here to send me an email</a>      ["or Visit my LinkedIn profile"](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")</pre>
 
 
 
