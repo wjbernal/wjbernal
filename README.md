@@ -1,6 +1,7 @@
 <h1>William Bernal</h1>
 
-- ["My Email"](mailto:wjbernals@gmail.com?subject='Hi from your GitHub' "Hi! from your GitHub")
+- ["My Email"]( "Hi! from your GitHub")
+- <a href="mailto:wjbernals@gmail.com?subject=Hi from your GitHub"> My Email</a>
 - ["LinkedIn"](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")
 
 
