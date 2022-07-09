@@ -10,18 +10,23 @@
 
 <h2>About me</h2>
 
-I am a Software Engineer. In my hearth, I am a programmer.
+I am a software engineer. In my heart, I am a programmer.
 
 
-- <strong>I am the type of person who isn't satisfied until a solution is in place. I enjoy solving problems</strong> I look for creative solutions to complex technical problems. 
-- <strong>I love building, creating and fixing things</strong> not only in code, everywhere... So I envision a product and I love bringing it to life. 
-- <strong>I enjoy understanding how things works... from athoms to galaxies... </strong> 
-- <strong>When faced with an obstacle, I feel motivated to overcome it</strong>
-- <strong>I Can pay attention to details while also I am not losing sight of the big picture</strong> 
-- <strong>I love being working with other people</strong>
-- <strong>I like to learn continously</strong>
-- <strong>I work well under pressure</strong>
+- I am the type of person who is not satisfied until a solution is found.
+- I enjoy solving problems and seek creative solutions to complex technical problems.
+- I love to build, create and fix things, not only in the code, everywhere... So, I imagine a product and I love to bring it to life.
+- I enjoy understanding how things work...
+- When faced with an obstacle, I feel motivated to overcome it
+- Pay attention to the details! without losing sight of the big picture
+- Work with other people, be part of a team!
+- I like to learn continuously
 
+<h2>Interests</h2>
+
+- C#, 
+- .NET core, MVC, Razor Pages, Web API, ASP.NET, Web Pages, 
+- 
 
 
 
