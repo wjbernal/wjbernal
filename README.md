@@ -1,10 +1,9 @@
 <h1 align="center">William Bernal</h1>
 
-<p align="center">
-**Software Engineer - Computer Programmer - Full Stack Developer** 
-BSc, PMP-PMI® Certified, Agile
+<h2 align="center">Software Engineer - Computer Programmer - Full Stack Developer</h2>
+<h3 align="center">BSc, PMP-PMI® Certified, Agile</h3>
 
-</p>
+
 
 - <a href="mailto:wjbernals@gmail.com?subject=Hi from your GitHub"> My Email</a>
 - ["LinkedIn"](https://www.linkedin.com/in/wbernal-it/ "visit my LinkedIn profile")
