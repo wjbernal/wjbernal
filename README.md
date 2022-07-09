@@ -11,6 +11,7 @@
 <h2>About me</h2>
 I am a Software Engineer... and in my hearth... I am a programmer.
 I know that because:
+
 - <strong>I am the type of person who isn't satisfied until a solution is in place. I enjoy solving problems</strong> I look for creative solutions to complex technical problems. 
 - <strong>I love building, creating and fixing things</strong> not only in code, everywhere... So I envision a product and I love bringing it to life. 
 - <strong>I enjoy understanding how things works... from athoms to galaxies... </strong> 
