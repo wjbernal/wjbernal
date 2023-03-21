@@ -1,6 +1,6 @@
 <h1 align="center">William Bernal</h1>
 
-<h2 align="center">Software Engineer - Computer Programmer - Full Stack Developer</h2>
+<h2 align="center">Software Engineer - Project Manager -  Full Stack Developer</h2>
 <h3 align="center">BSc, PMP-PMI® Certified, Agile</h3>
 
 
@@ -24,6 +24,7 @@ I am a software engineer. In my heart, I am a programmer.
 
 <h2>Interests</h2>
 
+- Software Project Management
 - C#, 
 - .NET core, MVC, Razor Pages, Web API, ASP.NET, ASP.NET WEB API, REST, NET Framework
 - WEB Development: HTML, CSS, JavaScript, 
